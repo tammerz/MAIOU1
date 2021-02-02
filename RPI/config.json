@@ -1,0 +1,11 @@
+{
+    "productId": 1337,
+    "SCK_PIN": 6,
+    "DT_PIN": 5,
+    "initialScale": 378.696,
+    "initialOffset": 88460,
+    "serverURL": "https://ap-pet-tite.herokuapp.com/",
+    "serverURLdev": "http://192.168.178.21/",
+    "updateFrequencyInMS": 2000,
+    "logToConsole": false
+}

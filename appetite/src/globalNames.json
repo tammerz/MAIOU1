@@ -1,0 +1,23 @@
+{
+    "appname": "Ap-pet-tite",
+    "weightUnit": "Kg",
+    "settings": "Settings",
+    "live": "Live",
+    "lastKnown": "Last known",
+    "productError": "Product not found",
+    "more": "More",
+    "tare": "Tare",
+    "reset": "Reset",
+    "feed": "Feed",
+    "selectPetType": "Select your pet type",
+    "selectPetSubType": "Select your pet sub type",
+    "cancel": "Cancel",
+    "ok": "Ok",
+    "enter": "Enter",
+    "send": "Send",
+    "weightLimit": "Weight limit",
+    "changeWeightLimit": "Change weight limit",
+    "weightUnitInfo": "In Gram",
+    "yourProductId": "Your Product ID",
+    "changeProductId": "Change your Product ID"
+}

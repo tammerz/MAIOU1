@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Dog",
+        "description": "Le chien, tout comme l’humain, a certains besoins nutritionnels de base. Pour faire simple, un chien d'âge moyen, à son poids de forme de 10 kg et en bonne santé aura besoin de 730 kCal par jour alors que pour le même chien en surpoids et léthargique, on ne recommandera que 370 kCal par jour",
+        "subTypes": [
+            {
+                "name": "Chiot",
+                "text": [
+                    "Votre chiot est en pleine croissance, il a besoin de beaucoup d’énergie mais a un petit estomac. Il faut donc lui donner des petites quantités mais plusieurs fois par jour. Les portions évoluent en fonctions du poids et de l’âge de votre chiot.",
+                    [
+                        "0x2b24",
+                        "Entre 2 et 4 mois, comptez 3 repas par jour."
+                    ],
+                    [
+                        "0x2b24",
+                        "Entre 4 et 6 mois, comptez 2 repas par jour."
+                    ],
+                    "Adaptez ses rations selon les instructions sur l’emballage, la quantité et la fréquence y sont souvent indiquées selon l’âge en mois de votre chiot.  Cependant, ces indications sont purement indicatives. Il faut donc toujours garder le poids de votre chien en tête. Il ne faut surtout pas hésiter à consulter votre vétérinaire en cas de doute sur les portions adaptées !"
+                ]
+            },
+            {
+                "name": "Taille Moyenne (10-20kg)",
+                "text": [
+                    "Pour un chien de cette envergure, il est recommandé de se servir de croquettes classiques, que l’on retrouve en abondance sur le marché de l’alimentation canine.",
+                    "Ses croquettes doivent contenir les ingrédients suivants (chien moyennement sportif):",
+                    [
+                        "0x2b24",
+                        "15-25% de protéines"
+                    ],
+                    [
+                        "0x2b24",
+                        "15% de lipides"
+                    ],
+                    [
+                        "0x2b24",
+                        "40-50% de glucides "
+                    ],
+                    "Ses besoins se manifestent sous approximativement un besoin de 730kCal par jour, divisé en 2 repas à au moins 5 heures d’intervalle. "
+                ]
+            },
+            {
+                "name": "Taille importante (20-35kg)",
+                "text": [
+                    "Pour un chien de cette taille, il faudra vous équiper dans un premier temps d’une gamelle plus grande, de croquettes propres à sa race (également plus grandes et de masse plus lourdes). Pour ce faire il suffira de regarder les écriteaux sur les emballages des croquettes. ",
+                    "Dans ce cadre, le chiens aura approximativement les besoins nutritionnels suivants (par jour):",
+                    [
+                        "0x2b24",
+                        "1300-1690 kCal"
+                    ],
+                    [
+                        "0x2b24",
+                        "330-510g"
+                    ],
+                    "Là également, le chien devra manger deux repas à plus ou moins 5 heures d’intervalle."
+                    
+                ]
+            },
+            {
+                "name": "Taille très imposantes (>40 kg)",
+                "text": [
+                    "Un chien de cette taille a une consommation calorique très élevée par rapport à celle d’un chien plus petit. Il a besoin de croquettes spécifiques à sa race et son poids. Dans ce cas de figure, il faut que le chien mange au moins deux fois par jour et pas n’importe quelles portions, mais bien des portions équivalentes au double de ce qu’ingurgite un humain. ",
+                    "Il aura besoin au minimum de:",
+                    [
+                        "0x2b24",
+                        "Au moins 2100 kCal"
+                    ],
+                    [
+                        "0x2b24",
+                        "Au moins 600g"
+                    ],
+                    "Ce genre de chiens est également connu pour digérer assez lentement, il ne faut donc pas trop les brusquer lors de leur digestion. "
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cat",
+        "description": "Lorem ipsum dolor",
+        "subTypes": [
+            {
+                "name": "Small",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Medium",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Big",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bird",
+        "description": "Lorem ipsum dolor",
+        "subTypes": [
+            {
+                "name": "Small",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Medium",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Big",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rabbit",
+        "description": "Lorem ipsum dolor",
+        "subTypes": [
+            {
+                "name": "Small",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Medium",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Big",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Guinea pig",
+        "description": "Lorem ipsum dolor",
+        "subTypes": [
+            {
+                "name": "Small",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Medium",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Big",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Apache Helicopter",
+        "description": "Lorem ipsum dolor",
+        "subTypes": [
+            {
+                "name": "Small",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Medium",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            },
+            {
+                "name": "Big",
+                "text": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed justo lacus. Sed volutpat nunc tristique risus varius, eget condimentum mauris ultricies. Morbi ac facilisis sapien. Praesent sed blandit ante.",
+                    "Nulla vitae urna et purus vehicula convallis. Aenean non dictum nibh. Mauris non leo quis enim molestie ullamcorper.",
+                    "Phasellus dui metus, luctus eleifend nibh sit amet, pulvinar cursus ante. Ut nec volutpat neque, in feugiat ex. Nulla in mattis mauris, ut fermentum lectus."
+                ]
+            }
+        ]
+    }
+]

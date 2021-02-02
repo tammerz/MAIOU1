@@ -1,0 +1,75 @@
+// NativeScript core theme
+// @see https://docs.nativescript.org/ui/theme
+@import '~@nativescript/theme/core';
+// @import '~@nativescript/theme/default';
+// Override variables here
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+.ns-dark ActionBar,
+.ns-light ActionBar {
+    background-color: #d7af85;
+    color: #000000;
+}
+
+.ns-dark Page,
+.ns-light Page {
+    background-color: #f0f0f0;
+    color: #000000;
+}
+
+.fine-button {
+    android-elevation: 4;
+    background-color: #d7af85;
+    border-radius: 5;
+    color: #3d464e;
+    font-size: 20;
+    font-weight: bold;
+}
+
+.fine-button.small {
+    font-size: 17;
+    height: 36;
+
+}
+
+.fine-button:active {
+    android-elevation: 10;
+    background-color: #a1acb7;
+}
+
+.ns-dark .link-button,
+.ns-light .link-button {
+    android-elevation: 0;
+    background-color: transparent;
+    border-color: transparent;
+    border-width: 1;
+    height: 25;
+    z-index: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.link-button:active {
+    text-decoration: underline
+}
+
+.open-card.wrapper {
+    padding: 15 15 0 15;
+    background-color: #c1d4d2;
+}
+
+.open-card.wrapper .fine-button {
+    margin: 6;
+}
+
+.muted-6 {
+    opacity: .6;
+}
+
+.muted-2 {
+    opacity: .2;
+}
+
+.underline {
+    text-decoration: underline
+}
